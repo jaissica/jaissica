@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey, I'm [Jaissica!](https://jaissicahora.github.io/) 
+## Hey, I'm [Jaissica!] 
 <a href="https://www.linkedin.com/in/jaissica-hora-a61008182/">
   <img align="left" alt="Jaissica Hora - LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -24,22 +24,23 @@ Here are some ideas to get you started:
   <img align="left" alt="Jaissica Hora - Mail" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
 
-<a href="https://jaissicahora.github.io/">
+<!--<a href="https://jaissicahora.github.io/">
   <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
 </a>
+-->
 
 <img src="https://komarev.com/ghpvc/?username=jaissica" alt="jaissica"/>
 
 ## About Me 🚀
 
+- 🌱 I'm currently gaining valuable experience as a Software Engineering Intern at EnergySage, Inc.
 - 📫 I'm currently a MSCS student at Northeastern University.
-- 🌱 I'm currently gaining valuable experience as a Software Engineering Intern at EnergySage, Inc.  
 - 👯 I’m looking to collaborate on Web Development and Machine Learning Projects.
-- 💬 Ask me about  NodeJS, TypeScript, JavaScript, React, Java, Python, Git, Bash, Docker, Data Visualisation.
+- 💬 Ask me about  NodeJS, Vue.js, TypeScript, JavaScript, React, Java, Python, Git, Bash, Docker, Data Visualisation.
 - 😄 Pronouns: She/Her/Hers
 
 
-I am dedicated to telling stories with Data. I am experienced in Full Stack Web Development & Data Engineering & Visualization. I am interested in algorithmic competitions and learning about new technologies and frameworks. 
+I am experienced in Full Stack Web Development & Data Engineering & Visualization. I am interested in learning about new technologies and frameframeworks.
 
 ## **Languages and Tools:**  
 
