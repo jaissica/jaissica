@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jaissica/jaissica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey, I'm [Jaissica!] 
+## Hey, I'm Jaissica!
 <a href="https://www.linkedin.com/in/jaissica-hora-a61008182/">
   <img align="left" alt="Jaissica Hora - LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
