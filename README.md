@@ -24,6 +24,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Jaissica Hora - Mail" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
 
+<a href="https://jaissica.github.io">
+  <img align="left" alt="Jaissica Hora - Github" width="26px" src="[https://img.icons8.com/ios-glyphs/30/000000/new-post.png](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)"/>
+</a>
+
 <!--<a href="https://jaissicahora.github.io/">
   <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
 </a>
@@ -69,10 +73,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </a>
 
 <strong>Data Visualization</strong><br>
-<a href="https://matplotlib.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-</a>
-<a href="https://plotly.com" target="_blank" rel="noreferrer">
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
 </a>
 <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
@@ -119,9 +120,6 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </a>
 <a href="[https://nodejs.or](https://nuxt.com/)" target="_blank" rel="noreferrer">
 <img src="" alt="NuxtJs" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
@@ -180,10 +178,6 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 
 </p>
 
-## **Online Profile Links:**
-
-- LinkedIn - [jaissica](https://www.linkedin.com/in/jaissica-hora-a61008182/)
-
 <!--END_SECTION:waka-->
 
 <!--  CUSTOM FROM PROFILE SUMMARY CARD ENDS-->
@@ -195,12 +189,5 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </table>
 
 
-Cheers,<br />
+Yours truly,<br />
 Jaissica<br />
-[jaissica.github.io](https://jaissica.github.io)
-
-<div align="center">
-
-### Show some ❤️ by starring some of my repositories!
-
-</div>
