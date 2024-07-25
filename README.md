@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <a href="https://jaissica.github.io">
   <img align="left" alt="Jaissica Hora - Github" width="26px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
 </a>
+<br/>
 
 ## About Me 🚀
 
