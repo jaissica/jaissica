@@ -159,7 +159,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="cypress.svg" alt="cypress" width="40" height="40"/>
 </a>
 <a href="[https://www.selenium.de](https://vwo.com/platform/?utm_source=google&utm_medium=paid&utm_campaign=brand_topgeos_search_gold_bof_vwo_brand&utm_content=700356054177&utm_term=vwo%20testing&mobile=&network=g&device=c&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP5M12I2rrwk8xcGpQ37_0RW-rVPNuWT7CW65cE29tc3R8pUlWcxCsoaAtRCEALw_wcB)v" target="_blank" rel="noreferrer">
-<img src="https://logowik.com/vwo-logo-vector-svg-pdf-ai-eps-cdr-free-download-9599.html" alt="VWO" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/VWO-Logo.svg" alt="VWO" width="40" height="40"/>
 </a>
 <a href="https://www.storyblok.com/a/storyblok-home?utm_source=google&utm_medium=cpc&utm_campaign=PA_SEA_Brand&utm_term=storyblok&utm_match_type=e&utm_device={utm_device}&utm_source=google&utm_medium=cpc&utm_campaign=PA_SEA_Brand&utm_keyword=storyblok&utm_match_type={match_type}&device=c&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP6J0ujLDHVCglSHN9MN1IQvM426xNnEbnRkqjvA1IgwbjVW8XqzlLAaAhAdEALw_wcB" target="_blank" rel="noreferrer">
 <img src="https://seeklogo.com/images/S/storyblok-icon-logo-F858B94590-seeklogo.com.png" alt="Storyblok" width="40" height="40"/>
