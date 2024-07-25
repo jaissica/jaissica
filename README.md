@@ -25,15 +25,13 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://jaissica.github.io">
-  <img align="left" alt="Jaissica Hora - Github" width="26px" src="[https://img.icons8.com/ios-glyphs/30/000000/new-post.png](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)"/>
+  <img align="left" alt="Jaissica Hora - Github" width="26px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
 </a>
 
 <!--<a href="https://jaissicahora.github.io/">
   <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
 </a>
 -->
-
-<img src="https://komarev.com/ghpvc/?username=jaissica" alt="jaissica"/>
 
 ## About Me 🚀
 
