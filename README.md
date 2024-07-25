@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey, I'm Jaissica!
+## Hey, I'm Jaissica
 <a href="https://www.linkedin.com/in/jaissica-hora-a61008182/">
   <img align="left" alt="Jaissica Hora - LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -33,12 +33,13 @@ Here are some ideas to get you started:
 
 ## About Me 🚀
 
-- 🌱 I'm currently gaining valuable experience as a Software Engineering Intern at EnergySage, Inc.
-- 📫 I'm currently a MSCS student at Northeastern University.
-- 👯 I’m looking to collaborate on Web Development projects.
-- 💬 Ask me about  NodeJS, Vue.js, TypeScript, JavaScript, React, Java, Python, Git, Bash, Docker, Data Visualisation.
+- 🔭 I'm currently gaining valuable experience as a Software Engineering Intern at EnergySage, Inc.
+- 🌱 At the moment I'm working on Vue, Nuxt, Django and Python.
+- 🎓 I'm currently MSCS student at Northeastern University
+- 👯 I’m looking to collaborate on Web Development and Data Science projects.
+- 💬 Ask me about Web Developement and Data Visualization
 - 😄 Pronouns: She/Her/Hers
-
+- 📫 How to reach me: hora.j@northeastern.edu
 
 I am experienced in Full Stack Web Development, Data Engineering and Visualization. I am interested in learning about new technologies and frameframeworks.
 
