@@ -100,7 +100,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-<img src="" alt="VueJs" width="40" height="40"/>
+<img src="vue.svg" alt="VueJs" width="40" height="40"/>
 </a>
 
 
@@ -156,7 +156,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 </a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-<img src="" alt="cypress" width="40" height="40"/>
+<img src="cypress.svg" alt="cypress" width="40" height="40"/>
 </a>
 <a href="[https://www.selenium.de](https://vwo.com/platform/?utm_source=google&utm_medium=paid&utm_campaign=brand_topgeos_search_gold_bof_vwo_brand&utm_content=700356054177&utm_term=vwo%20testing&mobile=&network=g&device=c&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP5M12I2rrwk8xcGpQ37_0RW-rVPNuWT7CW65cE29tc3R8pUlWcxCsoaAtRCEALw_wcB)v" target="_blank" rel="noreferrer">
 <img src="https://logowik.com/vwo-logo-vector-svg-pdf-ai-eps-cdr-free-download-9599.html" alt="VWO" width="40" height="40"/>
@@ -165,7 +165,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="https://seeklogo.com/images/S/storyblok-icon-logo-F858B94590-seeklogo.com.png" alt="Storyblok" width="40" height="40"/>
 </a>
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
-<img src="" alt="DataDog" width="40" height="40"/>
+<img src="datadog.svg" alt="DataDog" width="40" height="40"/>
 </a>
 
 
