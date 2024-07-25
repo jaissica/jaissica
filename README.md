@@ -28,11 +28,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Jaissica Hora - Github" width="26px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
 </a>
 
-<!--<a href="https://jaissicahora.github.io/">
-  <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
-</a>
--->
-
 ## About Me 🚀
 
 - 🔭 I'm currently gaining valuable experience as a Software Engineering Intern at EnergySage, Inc.
@@ -72,7 +67,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 
 <strong>Data Visualization</strong><br>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Plotly" width="40" height="40"/>
 </a>
 <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
@@ -116,8 +111,8 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
-<a href="[https://nodejs.or](https://nuxt.com/)" target="_blank" rel="noreferrer">
-<img src="" alt="NuxtJs" width="40" height="40"/>
+<a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+<img src="https://nuxtjs.ir/logos/nuxt-white.svg" alt="NuxtJs" width="40" height="40"/>
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
@@ -164,10 +159,10 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="" alt="cypress" width="40" height="40"/>
 </a>
 <a href="[https://www.selenium.de](https://vwo.com/platform/?utm_source=google&utm_medium=paid&utm_campaign=brand_topgeos_search_gold_bof_vwo_brand&utm_content=700356054177&utm_term=vwo%20testing&mobile=&network=g&device=c&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP5M12I2rrwk8xcGpQ37_0RW-rVPNuWT7CW65cE29tc3R8pUlWcxCsoaAtRCEALw_wcB)v" target="_blank" rel="noreferrer">
-<img src="" alt="VWO" width="40" height="40"/>
+<img src="https://logowik.com/vwo-logo-vector-svg-pdf-ai-eps-cdr-free-download-9599.html" alt="VWO" width="40" height="40"/>
 </a>
 <a href="https://www.storyblok.com/a/storyblok-home?utm_source=google&utm_medium=cpc&utm_campaign=PA_SEA_Brand&utm_term=storyblok&utm_match_type=e&utm_device={utm_device}&utm_source=google&utm_medium=cpc&utm_campaign=PA_SEA_Brand&utm_keyword=storyblok&utm_match_type={match_type}&device=c&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP6J0ujLDHVCglSHN9MN1IQvM426xNnEbnRkqjvA1IgwbjVW8XqzlLAaAhAdEALw_wcB" target="_blank" rel="noreferrer">
-<img src="" alt="Storyblok" width="40" height="40"/>
+<img src="https://seeklogo.com/images/S/storyblok-icon-logo-F858B94590-seeklogo.com.png" alt="Storyblok" width="40" height="40"/>
 </a>
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
 <img src="" alt="DataDog" width="40" height="40"/>
