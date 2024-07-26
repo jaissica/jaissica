@@ -101,7 +101,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" width="40" height="40"/>
+<img src="https://miro.medium.com/v2/resize:fit:1280/format:webp/1*dKU4uBSnJCs4jzkkuiALoQ.png" alt="Flask" width="40" height="40"/>
 </a>
 
 <strong>Database Management</strong><br>
