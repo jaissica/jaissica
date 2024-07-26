@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="mailto:hora.j@northeastern.edu">
-  <img align="left" alt="Jaissica Hora - Mail" width="26px" src="outlook.svg"/>
+  <img align="left" alt="Jaissica Hora - Mail" width="26px" src=https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"/>
 </a>
 
 <a href="https://jaissica.github.io">
