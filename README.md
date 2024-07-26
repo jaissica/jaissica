@@ -183,7 +183,3 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaissica&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
    </tr>
 </table>
-
-
-Yours truly,<br />
-Jaissica<br />
