@@ -178,7 +178,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 
 <!--  CUSTOM FROM PROFILE SUMMARY CARD ENDS-->
 
-<table cellpadding="8" cellspacing="8">
+<table cellpadding="10" cellspacing="10">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaissica&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
    </tr>
