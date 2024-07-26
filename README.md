@@ -44,6 +44,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 ## **Languages and Tools:**  
 
 <p align="left">
+
 <strong>Programming Languages</strong><br>
   
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -65,6 +66,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
+
 
 <strong>Frontend Development</strong><br>
 
@@ -96,6 +98,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
 
+
 <strong>Backend Development</strong><br>
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -117,6 +120,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <img src="assets/flask.webp" alt="Flask" width="40" height="40"/>
 </a>
+
 
 <strong>Database Management</strong><br>
 
@@ -143,6 +147,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
+
 
 <strong>Data Science and Visualization</strong><br>
 
@@ -176,7 +181,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
-</a>
+
 
 <strong>Testing and Other Tools</strong><br>
 
@@ -208,6 +213,6 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 
 <table cellpadding="8" cellspacing="8">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=test&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaissica&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
    </tr>
 </table>
