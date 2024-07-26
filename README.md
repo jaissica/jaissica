@@ -45,6 +45,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 
 <p align="left">
 <strong>Programming Languages</strong><br>
+<p>&nbsp;</p>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
@@ -64,6 +65,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
+<p>&nbsp;</p>
 
 <strong>Frontend Development</strong><br>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
