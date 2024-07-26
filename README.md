@@ -44,7 +44,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 ## **Languages and Tools:**  
 
 <p align="left">
-<strong>Languages</strong><br>
+<strong>Programming Languages</strong><br>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
@@ -53,31 +53,12 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="typescript.svg" alt="typescript" width="40" height="40"/>
-</a>
-</a>
-
-<strong>Data Science and Machine Learning</strong><br>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-</a>
-
-<strong>Data Visualization</strong><br>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Plotly" width="40" height="40"/>
-</a>
-<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-</a>
 </a>
 
 <strong>Frontend Development</strong><br>
@@ -105,7 +86,6 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 <img src="vue.svg" alt="VueJs" width="40" height="40"/>
 </a>
-
 
 <strong>Backend Development</strong><br>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -143,6 +123,23 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+</a>
+
+<strong>Data Science and Visualization</strong><br>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+</a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Plotly" width="40" height="40"/>
+</a>
+<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 </a>
 
 <strong>Cloud Services and Infrastructure</strong><br>
