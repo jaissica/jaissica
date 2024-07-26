@@ -56,7 +56,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="" alt="typescript" width="40" height="40"/>
+<img src="typescript.svg" alt="typescript" width="40" height="40"/>
 </a>
 </a>
 
@@ -171,7 +171,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="datadog.svg" alt="DataDog" width="40" height="40"/>
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="" alt="DataDog" width="40" height="40"/>
+<img src="figma.svg" alt="Figma" width="40" height="40"/>
 </a>
 
 
