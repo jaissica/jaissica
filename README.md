@@ -89,7 +89,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 
 <strong>Backend Development</strong><br>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="express-js.webp" alt="express" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="express" width="40" height="40"/>
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
