@@ -189,7 +189,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="assets/cypress.svg" alt="cypress" width="40" height="40"/>
 </a>
 
-<a href="[https://www.selenium.de](https://vwo.com/platform/?utm_source=google&utm_medium=paid&utm_campaign=brand_topgeos_search_gold_bof_vwo_brand&utm_content=700356054177&utm_term=vwo%20testing&mobile=&network=g&device=c&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP5M12I2rrwk8xcGpQ37_0RW-rVPNuWT7CW65cE29tc3R8pUlWcxCsoaAtRCEALw_wcB)v" target="_blank" rel="noreferrer">
+<a href="https://www.selenium.de" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/VWO-Logo.svg" alt="VWO" width="40" height="40"/>
 </a>
 
