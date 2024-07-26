@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Jaissica
 <a href="https://www.linkedin.com/in/jaissica-hora-a61008182/">
-  <img align="left" alt="Jaissica Hora - LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
+  <img align="left" alt="Jaissica Hora - LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" style="margin-right: 10px;"/>
 </a>
 
 <a href="mailto:hora.j@northeastern.edu">
-  <img align="left" alt="Jaissica Hora - Mail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"/>
+  <img align="left" alt="Jaissica Hora - Mail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" style="margin-right: 10px;"/>
 </a>
 
 <a href="https://jaissica.github.io">
@@ -43,22 +43,22 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 
 ## **Languages and Tools:**  
 
-<p align="left">
+<p align="left" style="padding-bottom: 20px;">
 <strong>Programming Languages</strong><br>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/>
 </a>
   
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="assets/typescript.svg" alt="typescript" width="40" height="40"/>
+<img src="assets/typescript.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/>
 </a>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
