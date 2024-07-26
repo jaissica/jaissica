@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Jaissica
 <a href="https://www.linkedin.com/in/jaissica-hora-a61008182/">
-  <img align="left" alt="Jaissica Hora - LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" alt="Jaissica Hora - LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
 </a>
 
 <a href="mailto:hora.j@northeastern.edu">
