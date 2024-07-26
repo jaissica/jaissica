@@ -95,7 +95,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-<img src="https://nuxtjs.ir/logos/nuxt-white.svg" alt="NuxtJs" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="NuxtJs" width="40" height="40"/>
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
