@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me: hora.j@northeastern.edu
 
-I am experienced in Full Stack Web Development, Data Engineering and Visualization. I am interested in learning about new technologies and frameframeworks.
+I am experienced in Full Stack Web Development, Data Engineering and Visualization. I am interested in learning about new technologies and frameworks.
 
 ## **Languages and Tools:**  
 
