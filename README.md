@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
-## About Me 🚀
+## About Me  🚀
 
 - 🔭 I'm currently gaining valuable experience as a Software Engineering Intern at EnergySage, Inc.
 - 🌱 At the moment I'm working on Vue, Nuxt, Django and Python.
@@ -45,7 +45,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 
 <p align="left">
 
-<strong>Programming Languages</strong><br> :wrench:
+<strong>Programming Languages</strong> :wrench: <br>
   
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="assets/java.svg" alt="java" width="40" height="40"/>
@@ -64,18 +64,18 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </a>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="cplusplus.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 
 
 <strong>Frontend Development</strong><br>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="html5.svg" alt="html5" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="assets/css3.svg" alt="css3" width="40" height="40"/>
 </a>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -83,7 +83,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="assets/react.svg" alt="react" width="40" height="40"/>
 </a>
 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -91,11 +91,11 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </a>
 
 <a href="https://angular.io" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
+<img src="angular.svg" alt="angular" width="40" height="40"/>
 </a>
 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<img src="assets/redux.svg" alt="redux" width="40" height="40"/>
 </a>
 
 
