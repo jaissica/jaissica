@@ -64,14 +64,14 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </a>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="cplusplus.svg" alt="cplusplus" width="40" height="40"/>
+<img src="assets/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 
 
 <strong>Frontend Development</strong><br>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="html5.svg" alt="html5" width="40" height="40"/>
+<img src="assets/html5.svg" alt="html5" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -91,7 +91,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </a>
 
 <a href="https://angular.io" target="_blank" rel="noreferrer">
-<img src="angular.svg" alt="angular" width="40" height="40"/>
+<img src="assets/angular.svg" alt="angular" width="40" height="40"/>
 </a>
 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
@@ -110,7 +110,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="assets/nodejs.svg" alt="nodejs" width="40" height="40"/>
 </a>
 
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
@@ -125,7 +125,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <strong>Database Management</strong><br>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="assets/mongodb.svg" alt="mongodb" width="40" height="40"/>
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -175,11 +175,11 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <strong>Cloud Services and Infrastructure</strong><br>
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="assets/aws.svg" alt="aws" width="40" height="40"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="docker.svg" alt="docker" width="40" height="40"/>
 </a>
 
 
@@ -189,7 +189,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="assets/cypress.svg" alt="cypress" width="40" height="40"/>
 </a>
 
-<a href="https://www.selenium.de" target="_blank" rel="noreferrer">
+<a href="https://vwo.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/VWO-Logo.svg" alt="VWO" width="40" height="40"/>
 </a>
 
