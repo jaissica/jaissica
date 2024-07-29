@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
-## About Me 🚀
+## About Me 🚀 ✨
 
 - 🔭 I'm currently gaining valuable experience as a Software Engineering Intern at EnergySage, Inc.
 - 🌱 At the moment I'm working on Vue, Nuxt, Django and Python.
