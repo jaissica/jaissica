@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 
 I am experienced in Full Stack Web Development, Data Engineering and Visualization. I am interested in learning about new technologies and frameworks.
 
-## **Languages and Tools:**  
+## **Languages and Tools :wrench: **  
 
 <p align="left">
 
-<strong>Programming Languages</strong> :wrench: <br>
+<strong>Programming Languages</strong> <br>
   
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="assets/java.svg" alt="java" width="40" height="40"/>
