@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
-## About Me 🚀 ✨
+## About Me 🚀
 
 - 🔭 I'm currently gaining valuable experience as a Software Engineering Intern at EnergySage, Inc.
 - 🌱 At the moment I'm working on Vue, Nuxt, Django and Python.
@@ -45,7 +45,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 
 <p align="left">
 
-<strong>Programming Languages</strong><br>
+<strong>Programming Languages</strong><br> :wrench:
   
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
