@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 I am experienced in Full Stack Web Development, Data Engineering and Visualization. I am interested in learning about new technologies and frameworks.
 
-## **Languages and Tools :wrench: **  
+## **Languages and Tools ** :wrench:  
 
 <p align="left">
 
