@@ -175,11 +175,11 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <strong>Cloud Services and Infrastructure</strong><br>
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="assets/aws.svg" alt="aws" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="docker.svg" alt="docker" width="40" height="40"/>
+<img src="assets/docker.svg" alt="docker" width="40" height="40"/>
 </a>
 
 
