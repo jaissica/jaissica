@@ -55,7 +55,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="assets/python.svg" alt="python" width="40" height="40"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
 <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/>
 </a>
 
@@ -63,7 +63,7 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <img src="assets/typescript.svg" alt="typescript" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<a href="https://cplusplus.com/doc/" target="_blank" rel="noreferrer">
 <img src="assets/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 
@@ -120,7 +120,6 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <img src="assets/flask.webp" alt="Flask" width="40" height="40"/>
 </a>
-
 
 <strong>Database Management</strong><br>
 
