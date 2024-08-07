@@ -217,13 +217,19 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <!--
 <a href="http://www.github.com/jaissica"><img src="https://github-readme-stats.vercel.app/api?username=jaissica&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Jaissica GitHub stats" /></a> -->
 
-<a href="http://www.github.com/jaissica"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaissica&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=solarized_dark" /></a>
+<a href="http://www.github.com/jaissica"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaissica&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&theme=solarized_dark" /></a>
 
 <!--
-<a href="http://www.github.com/jaissica"><img src="https://activity-graph.herokuapp.com/graph?username=jaissica&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<a href="http://www.github.com/jaissica"><img src="https://activity-graph.herokuapp.com/graph?username=jaissica&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <!-- <a href="https://github.com/jaissica" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaissica&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
+
+<!-- <table cellpadding="8" cellspacing="8">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaissica&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
+   </tr>
+</table> -->
 
 <table cellpadding="8" cellspacing="8">
   <tr>
