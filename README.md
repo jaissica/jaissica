@@ -215,9 +215,12 @@ I am experienced in Full Stack Web Development, Data Engineering and Visualizati
 <b>My GitHub Stats</b>
 
 <!--
-<a href="http://www.github.com/jaissica"><img src="https://github-readme-stats.vercel.app/api?username=jaissica&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Jaissica GitHub stats" /></a> -->
-
+<a href="http://www.github.com/jaissica"><img src="https://github-readme-stats.vercel.app/api?username=jaissica&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Jaissica GitHub stats" /></a> 
 <a href="http://www.github.com/jaissica"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaissica&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&theme=solarized_dark" /></a>
+-->
+
+<a href="http://www.github.com/jaissica"><img src="https://github-readme-stats.vercel.app/api?username=jaissica&show_icons=true&hide=prs&count_private=true&hide_border=true&theme=solarized_dark" /></a>
+
 
 <!--
 <a href="http://www.github.com/jaissica"><img src="https://activity-graph.herokuapp.com/graph?username=jaissica&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
